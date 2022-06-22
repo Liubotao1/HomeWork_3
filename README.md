@@ -1,0 +1,14 @@
+运行结果：
+    1、SubclassOverrideSuperProtected的运行结果（主要学习了继承、多态、super等）
+        ![继承覆盖多态](https://user-images.githubusercontent.com/106717015/174934863-a367da63-35a0-483b-9516-4fe1f223e092.png)
+    2、Interface的运行结果（主要学习了接口，使商品更加丰富）
+        ![接口](https://user-images.githubusercontent.com/106717015/174934965-87c03990-b616-4301-9a87-4d1b9350dd47.png)
+    3、MoreProductTypes的运行结果（添加了一个按照保质期的百分比进行打折商品，并对其运行结果进行分析）
+        ①、购买失败时的运行结果
+        ![购买失败](https://user-images.githubusercontent.com/106717015/174935123-06ea6056-4cac-4e71-8219-1c78b113892a.png)
+        ②、不打折时的运行结果（保质期在一半时间内）
+        ![不打折](https://user-images.githubusercontent.com/106717015/174935203-19b3122b-7a74-4cee-94f3-519f1184889f.png)
+        ③、打七折时的运行结果（保质期不超过90%的保质时间）
+        ![七折](https://user-images.githubusercontent.com/106717015/174935351-427e52e3-d1e6-450d-84a9-d3e7b44adf5d.png)
+        ④、打五折时的运行结果（保质期超过90%的保质时间）
+        ![半价](https://user-images.githubusercontent.com/106717015/174935516-18cdcb7e-1ec4-4253-a211-dab8cce202a2.png)
